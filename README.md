@@ -19,19 +19,19 @@ height="80">](https://play.google.com/store/apps/details?id=com.yuzumin.mikonois
 GNU General Public License V3
 
 # List of Noises
-* mikonoise1
-* mikonoise2
-* mikonoise3
-* mikonoise4
-* mikonoise5
-* mikonoise6
-* mikonoise7
-* mikonoise8
-* mikonoise9
-* mikonoise10
-* mikonoise11
-* mikonoise12
-* mikonoise13
+* mikonoise1  Nyahallo
+* mikonoise2  FAQ U
+* mikonoise3  Social Distancing
+* mikonoise4  You're my best friend
+* mikonoise5  FAQ U MIKO
+* mikonoise6  NO U
+* mikonoise7  *Signature quote*
+* mikonoise8  Hey Man Hi
+* mikonoise9  *Self introduction*
+* mikonoise10 Ohh
+* mikonoise11 Back To The Future ok?
+* mikonoise12 Come on man
+* mikonoise13 Jesus?
 * mikonoise14
 * mikonoise15
 * mikonoise16
