@@ -36,7 +36,7 @@ GNU General Public License V3
 * mikonoise15 *Miko clapping*
 * mikonoise16 Omedetō
 * mikonoise17 Shiawase ni naru
-* mikonoise18
+* mikonoise18 NOOOO! (Annoyed)
 * mikonoise19
 * mikonoise20
 * mikonoise21
