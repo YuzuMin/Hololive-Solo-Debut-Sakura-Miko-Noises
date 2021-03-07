@@ -33,9 +33,9 @@ GNU General Public License V3
 * mikonoise12 Come on man
 * mikonoise13 Jesus?
 * mikonoise14 Stay home!
-* mikonoise15
-* mikonoise16
-* mikonoise17
+* mikonoise15 *Miko clapping*
+* mikonoise16 Omedetō
+* mikonoise17 Shiawase ni naru
 * mikonoise18
 * mikonoise19
 * mikonoise20
