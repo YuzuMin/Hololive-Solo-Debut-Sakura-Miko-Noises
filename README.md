@@ -44,9 +44,9 @@ GNU General Public License V3
 * mikonoise23 FAQ U baby
 * mikonoise24 Waaaw
 * mikonoise25 *Miko laugh*
-* mikonoise26
-* mikonoise27
-* mikonoise28
+* mikonoise26 Ahhh! Where am I?
+* mikonoise27 Uwahh
+* mikonoise28 Te..?! Te..Tempting?
 * mikonoise29
 * mikonoise30
 * mikonoise31
