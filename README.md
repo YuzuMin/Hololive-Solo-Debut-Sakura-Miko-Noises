@@ -55,9 +55,9 @@ GNU General Public License V3
 * mikonoise34 I no ka
 * mikonoise35 *Miko making music*
 * mikonoise36 *FAQ U song*
-* mikonoise37 
-* mikonoise38
-* mikonoise39
+* mikonoise37 N-word
+* mikonoise38 Tarantula
+* mikonoise39 FAQ is love
 * mikonoise40
 * mikonoise41
 * mikonoise42
