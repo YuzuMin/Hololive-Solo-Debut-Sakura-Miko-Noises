@@ -53,9 +53,9 @@ GNU General Public License V3
 * mikonoise32 *Miko Noise*
 * mikonoise33 Kawaiso
 * mikonoise34 I no ka
-* mikonoise35
-* mikonoise36
-* mikonoise37
+* mikonoise35 *Miko making music*
+* mikonoise36 *FAQ U song*
+* mikonoise37 
 * mikonoise38
 * mikonoise39
 * mikonoise40
