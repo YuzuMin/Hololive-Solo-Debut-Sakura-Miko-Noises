@@ -60,9 +60,9 @@ GNU General Public License V3
 * mikonoise39 FAQ is love
 * mikonoise40 Uhhhh
 * mikonoise41 No love
-* mikonoise42
-* mikonoise43
-* mikonoise44
+* mikonoise42 Maou Maou
+* mikonoise43 Yabai yo
+* mikonoise44 Haachama!
 * mikonoise45
 * mikonoise46
 * mikonoise47
