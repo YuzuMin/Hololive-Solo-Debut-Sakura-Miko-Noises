@@ -42,7 +42,7 @@ GNU General Public License V3
 * mikonoise21 Miko is ELITE
 * mikonoise22 NO baby
 * mikonoise23 FAQ U baby
-* mikonoise24
+* mikonoise24 Waaaw
 * mikonoise25
 * mikonoise26
 * mikonoise27
