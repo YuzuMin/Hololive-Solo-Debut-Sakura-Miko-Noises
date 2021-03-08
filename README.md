@@ -40,8 +40,8 @@ GNU General Public License V3
 * mikonoise19 Ano Ne
 * mikonoise20 Onii chan
 * mikonoise21 Miko is ELITE
-* mikonoise22 No baby
-* mikonoise23
+* mikonoise22 NO baby
+* mikonoise23 FAQ U baby
 * mikonoise24
 * mikonoise25
 * mikonoise26
