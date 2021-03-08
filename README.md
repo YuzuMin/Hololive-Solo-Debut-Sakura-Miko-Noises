@@ -58,8 +58,8 @@ GNU General Public License V3
 * mikonoise37 N-word
 * mikonoise38 Tarantula
 * mikonoise39 FAQ is love
-* mikonoise40
-* mikonoise41
+* mikonoise40 Uhhhh
+* mikonoise41 No love
 * mikonoise42
 * mikonoise43
 * mikonoise44
