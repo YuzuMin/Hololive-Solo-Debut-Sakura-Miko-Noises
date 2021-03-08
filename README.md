@@ -48,11 +48,11 @@ GNU General Public License V3
 * mikonoise27 Uwahh
 * mikonoise28 Te..?! Te..Tempting?
 * mikonoise29 iiyo
-* mikonoise30
-* mikonoise31
-* mikonoise32
-* mikonoise33
-* mikonoise34
+* mikonoise30 *Miko scream*
+* mikonoise31 Gomenasai
+* mikonoise32 *Miko Noise*
+* mikonoise33 Kawaiso
+* mikonoise34 I no ka
 * mikonoise35
 * mikonoise36
 * mikonoise37
