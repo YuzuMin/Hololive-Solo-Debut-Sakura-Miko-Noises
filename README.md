@@ -39,8 +39,8 @@ GNU General Public License V3
 * mikonoise18 NOOOO! (Annoyed)
 * mikonoise19 Ano Ne
 * mikonoise20 Onii chan
-* mikonoise21
-* mikonoise22
+* mikonoise21 Miko is ELITE
+* mikonoise22 No baby
 * mikonoise23
 * mikonoise24
 * mikonoise25
