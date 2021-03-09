@@ -63,7 +63,7 @@ GNU General Public License V3
 * mikonoise42 Maou Maou
 * mikonoise43 Yabai yo
 * mikonoise44 Haachama!
-* mikonoise45
+* mikonoise45 I hope ... ever
 * mikonoise46
 * mikonoise47
 * mikonoise48
