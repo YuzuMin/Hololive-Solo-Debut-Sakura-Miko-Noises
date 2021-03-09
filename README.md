@@ -64,8 +64,8 @@ GNU General Public License V3
 * mikonoise43 Yabai yo
 * mikonoise44 Haachama!
 * mikonoise45 I hope ... ever
-* mikonoise46
-* mikonoise47
-* mikonoise48
+* mikonoise46 *Miko feeding Marine*
+* mikonoise47 Motherfucker
+* mikonoise48 天然だよ
 * mikonoise49
 * mikonoise50
