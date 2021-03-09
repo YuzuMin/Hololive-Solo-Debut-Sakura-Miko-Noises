@@ -94,7 +94,7 @@
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:fontFamily="sans-serif-medium"
-                                    android:text="Polka Ch. 尾丸ポルカ"
+                                    android:text="Miko Ch. さくらみこ"
                                     android:textAlignment="center"
                                     android:textColor="@color/darkporcelain"
                                     android:textSize="11sp" />
@@ -103,7 +103,7 @@
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:fontFamily="sans-serif-medium"
-                                    android:text="Best Online Circus"
+                                    android:text="Miko is ELITE baby"
                                     android:textAlignment="center"
                                     android:textColor="@color/porcelain" />
                             </LinearLayout>
@@ -254,13 +254,13 @@
                                     android:layout_width="match_parent"
                                     android:layout_height="90dp"
                                     android:padding="30dp"
-                                    app:srcCompat="@drawable/abt_drive" />
+                                    app:srcCompat="@drawable/abt_download" />
 
                                 <TextView
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:fontFamily="sans-serif-medium"
-                                    android:text="Downloads"
+                                    android:text="Google Drive"
                                     android:textAlignment="center"
                                     android:textColor="@color/darkporcelain"
                                     android:textSize="11sp" />
@@ -269,7 +269,7 @@
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
                                     android:fontFamily="sans-serif-medium"
-                                    android:text="Google Drive"
+                                    android:text="Downloads"
                                     android:textAlignment="center"
                                     android:textColor="@color/porcelain" />
                             </LinearLayout>
