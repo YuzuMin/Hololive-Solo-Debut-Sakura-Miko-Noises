@@ -125,6 +125,10 @@ public class MainActivity extends AppCompatActivity implements Count.CountListen
         MenuBTN.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                if(isFullAuto){
+                    isFullAuto =false;
+                    AppName.setText(getString(R.string.press_vtuber));
+                }
                 Intent intent;
                 intent = new Intent(MainActivity.this, AppMenu.class);
                 startActivity(intent);
@@ -137,6 +141,10 @@ public class MainActivity extends AppCompatActivity implements Count.CountListen
             @Override
             public void onClick(View view) {
                 if(DevCount==7){
+                    if(isFullAuto){
+                        isFullAuto =false;
+                        AppName.setText(getString(R.string.press_vtuber));
+                    }
                     Intent intent;
                     intent = new Intent(MainActivity.this, AlarmActivity.class);
                     startActivity(intent);
@@ -1662,6 +1670,9 @@ public class MainActivity extends AppCompatActivity implements Count.CountListen
     @Override
     protected void onResume() {
         retrievedata();
+        if(isFullAuto){
+            startRandomSound();
+        }
         super.onResume();
     }
 
