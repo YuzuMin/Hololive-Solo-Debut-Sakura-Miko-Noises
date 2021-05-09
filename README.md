@@ -1,4 +1,4 @@
-# Hololive-Solo-Debut-Sakura-Miko-Noises
+# Hololive Solo Debut Sakura Miko Noises
 GitHub repository for Miko Noises Android App
 
 # Sakura Miko Noises
